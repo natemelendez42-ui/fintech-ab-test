@@ -6,7 +6,7 @@ An end-to-end analytics project testing whether a redesigned onboarding flow get
 
 ## Business question
 
-A fintech app showed a new onboarding flow to half of its new signups. Did the new flow (treatment) increase the share of users who make a first deposit, compared with the old flow (control)? If so, what does that do to revenue, ARPU and other financial KPIs?
+An banking app has created a new sign-up process and wants to test it out with its users. Half of the users of the app will be assigned the new version of the sign-up process while the other half remains with the old one. I wanted to see if I can notice an increase in users who put money into their account, and if they did how much of the money comes from the new sign-up process.
 
 ## What's built so far
 
