@@ -10,7 +10,7 @@ An banking app has created a new sign-up process and wants to test it out with i
 
 ## What's built so far
 
-- Reproducible synthetic dataset of 10,000 users, generated with pandas and NumPy using a fixed random seed
+- Reproducible synthetic dataset of 10,000 users, generated with pandas and Python random module
 - Weighted sampling for a realistic mix of acquisition channel, device, age band and state
 - Random assignment of every user to control or treatment
 - Validation checks before saving: unique IDs, matching row counts, no missing values
@@ -31,7 +31,7 @@ An banking app has created a new sign-up process and wants to test it out with i
 
 ## Tech stack
 
-**Current:** Python (pandas, NumPy), Jupyter, Git
+**Current:** Python (pandas), Jupyter, Git
 
 **Planned:** MySQL, statsmodels, SciPy, seaborn, matplotlib, Anthropic Python SDK, AWS S3 (boto3), Power BI
 
